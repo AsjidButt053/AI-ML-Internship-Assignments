@@ -5,7 +5,7 @@ This repository contains the weekly assignments completed during my AI & Machine
 ## Internship Overview
 
 - Duration: 6 Weeks
-- University: COMSATS University Islamabad, Sahiwal Campus
+- Zynvex Solutions, Islamabad (Remote)
 - Focus: Python, Data Analysis, Machine Learning, and Deep Learning
 
 ## Repository Structure
