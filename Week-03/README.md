@@ -1,20 +1,37 @@
 # Week 3 – Deep Learning
 
+## Objective
+
+Learn Artificial Neural Networks using TensorFlow and Keras.
+
 ## Topics Covered
 
 - TensorFlow
 - Keras
-- Artificial Neural Networks (ANN)
+- ANN
 - Model Training
 - Model Evaluation
 
 ## Assignment
 
-Developed and evaluated deep learning models using TensorFlow and Keras for classification tasks, including model saving and performance comparison.
+Developed a deep learning model for customer churn prediction.
 
-## Skills Gained
+## What I Learned
 
-- TensorFlow
-- Keras
-- Neural Networks
-- Deep Learning
+- Neural network architecture
+- TensorFlow workflow
+- Model optimization
+- Model saving
+
+## What I Applied
+
+- Built an ANN
+- Trained the model
+- Evaluated predictions
+- Saved the trained model
+
+## Files
+
+- Assignment3_DLP_Muhammad_Asjid_Butt.ipynb
+- Telco Customer Churn Dataset.csv
+- Assignment3_Model.keras
