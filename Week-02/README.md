@@ -1,20 +1,36 @@
 # Week 2 – Machine Learning
 
+## Objective
+
+Understand the complete machine learning workflow and build predictive regression models.
+
 ## Topics Covered
 
 - Train-Test Split
 - Feature Scaling
 - Feature Engineering
-- Regression Models
+- Regression
 - Model Evaluation
 
 ## Assignment
 
-Built machine learning regression models to predict insurance costs, compared model performance, and evaluated results using standard metrics.
+Built regression models for insurance cost prediction using Scikit-learn.
 
-## Skills Gained
+## What I Learned
 
-- Scikit-learn
-- Feature Engineering
-- Regression
-- Model Evaluation
+- Data splitting
+- Feature scaling
+- Regression algorithms
+- Model evaluation
+
+## What I Applied
+
+- Trained regression models
+- Compared evaluation metrics
+- Saved trained model
+
+## Files
+
+- Assignment2_EER_Muhammad_Asjid_Butt.ipynb
+- insurance.csv
+- Assignment2_Model.joblib
